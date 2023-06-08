@@ -10,3 +10,15 @@ CSS
 ![Screenshot (1)](https://github.com/divyank-jain-singhvi/JM-Finance-Form.github.io/assets/119522879/f30a0b02-294d-482b-9d23-331de009aba3)
 ![Screenshot (2)](https://github.com/divyank-jain-singhvi/JM-Finance-Form.github.io/assets/119522879/c0346630-212a-4442-a348-041bb345605b)
 ![Screenshot (3)](https://github.com/divyank-jain-singhvi/JM-Finance-Form.github.io/assets/119522879/8e01089c-612b-4048-9324-963ef794d5df)
+
+# :rainbow: link of website !
+
+
+https://divyank-jain-singhvi.github.io/JM-Finance-Form.github.io/ 
+
+ # :mag: Contact
+ 
+## Developer: Divyank Jain Singhvi 
+ <b>LinkedIn: https://www.linkedin.com/in/divyank-jain-4763a421a <br><br>
+  Twitter: https://twitter.com/Divyank03534293</b>
+
